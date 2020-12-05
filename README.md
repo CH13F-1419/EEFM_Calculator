@@ -7,6 +7,3 @@ While I haven't fully yet decided how far I can (and want to) go with this proje
 - [ ] Make a consolidated toolbox for the same that can be installed in MATLAB, with more functionality
 - [ ] Make an interactive application(?) that will do all of the above(?)
 - [ ] (*Maybe*) Extrapolate this to other languages too
-
-~~Just some test text, ignore this.~~
-
